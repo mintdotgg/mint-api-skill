@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mint Modeler"
+  short_description: "Create and revise 3D models with Mint Modeler"
+  default_prompt: "Use $mint-modeler to make a small low-poly coffee mug at Low quality."
